@@ -1,0 +1,14 @@
+a.link{color: #fff; text-decoration: none; font-family: times new roman; margin-right: 20px;}
+.linkmenu{position: absolute; top: 0px; right: 0px; color: #fff; top: 15px; font-size: 20px; background:#3336; padding:15px; font-weight: bold;}
+.fa-vk{font-size: 100px; color:#4169E1;}
+.fa-telegram{font-size: 100px; color:#00BFFF}
+.fa-phone{font-size: 100px; color:#646666}
+.fa-envelope{font-size: 100px; color:black;}
+h1, h2, h3 {font-size: 50px; font-family: segoe script; background:#3336; padding:50px; color: white}
+.contact{background:#fff; color:red; width:400px; padding:30px; border-radius:30px; font-size: 10px;}
+footer{background:#222; height:70px; color:#fff; text-align:center; line-height:70px; margin-top:150px}
+.text{background:#4682B4; color:#FFFFFF; width:900; padding:30; border-radius:20px; font-size: 30px;}
+body{background: url(https://trafaret-decor.ru/sites/default/files/2023-02/%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%84%D0%BE%D0%BD%20%281%29.png);margin:0px}
+table{width: 75% ;font-size: 50px ;font-family: Times New Roman; text-align: left; border-collapse: separate; border-spacing: 5px; background: #63a2d4; color:#656665; border: 16px solid #63a2d4; border-radius: 20px;}
+td{background: #aecee9; padding: 10px;}
+p{font-size: 50px; font-weight: bold;}
